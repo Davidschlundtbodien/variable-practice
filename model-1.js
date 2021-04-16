@@ -8,3 +8,6 @@ var favoriteNumber = 24;
 var hasDog = true;
 var isWorking = true;
 var hasCat = false;
+
+var favoriteFoods = ["Pasta", "Eggs", "Pho"]
+var countriesVisited = ["Canada", "Germany", "Belgium"]
