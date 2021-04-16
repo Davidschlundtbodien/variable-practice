@@ -4,3 +4,7 @@ var job = "Developer";
 
 var age = 30;
 var favoriteNumber = 24;
+
+var hasDog = true;
+var isWorking = true;
+var hasCat = false;
